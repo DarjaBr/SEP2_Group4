@@ -3,8 +3,10 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Heyyy");
         System.out.println("Heyyy");
+
     }
-    public class;
+    //jimmy commited this
+
 
     public static void Test(){
         System.out.println("^-^");
