@@ -11,5 +11,5 @@ public class Main {
         System.out.println("^-^");
     }
 
-//Hunter committed
+//Hunter has committed
 }
