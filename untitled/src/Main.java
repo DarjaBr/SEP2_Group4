@@ -6,7 +6,9 @@ public class Main {
     }
     public class;
 
-    public static void Test(){}
+    public static void Test(){
+        System.out.println("^-^");
+    }
 
 
 }
