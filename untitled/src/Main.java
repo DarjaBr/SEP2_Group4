@@ -3,6 +3,7 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("Heyyy");
         System.out.println("Heyyy");
+        System.out.println("Wassup");
         print("mother fli[[ign fruit")
     }
     public class;
@@ -11,5 +12,5 @@ public class Main {
         System.out.println("^-^");
     }
 
-//Hunter has committed
+
 }
